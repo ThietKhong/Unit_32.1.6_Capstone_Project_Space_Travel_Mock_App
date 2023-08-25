@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App.git/static/css/main.a4a71da3.css",
-    "main.js": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App.git/static/js/main.ed1c79a2.js",
-    "index.html": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App.git/index.html",
-    "main.a4a71da3.css.map": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App.git/static/css/main.a4a71da3.css.map",
-    "main.ed1c79a2.js.map": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App.git/static/js/main.ed1c79a2.js.map"
+    "main.css": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App/static/css/main.a4a71da3.css",
+    "main.js": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App/static/js/main.ed1c79a2.js",
+    "index.html": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App/index.html",
+    "main.a4a71da3.css.map": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App/static/css/main.a4a71da3.css.map",
+    "main.ed1c79a2.js.map": "/Unit_32.1.6_Capstone_Project_Space_Travel_Mock_App/static/js/main.ed1c79a2.js.map"
   },
   "entrypoints": [
     "static/css/main.a4a71da3.css",
